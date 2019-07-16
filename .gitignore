@@ -1,0 +1,28 @@
+## Build generated
+build/
+DerivedData/
+
+
+# Mac OS X
+.DS_Store
+
+# Settings
+xcuserdata/
+
+project.xcworkspace/
+xcuserdata/
+
+
+playground.xcworkspace
+
+.build/
+
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
