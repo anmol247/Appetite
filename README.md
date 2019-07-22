@@ -13,3 +13,4 @@ This is how, somewhat, the app would look upon launch.
 #### .....
 
 ![Screenshot 2019-07-20 at 11 31 09 PM](https://user-images.githubusercontent.com/32016777/61582313-e0421b80-ab46-11e9-8e53-aed7a83f2002.png)
+###### Uses coreLocation Module to determine user's current location.
