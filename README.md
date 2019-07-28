@@ -2,7 +2,7 @@
 A Restaurant finder app for iOS
 
 ## About the App
-The application allows its users to search for restaurants in the vicinity that they are currently in.
+The application allows its users to search for restaurants in the vicinity that they are currently in. The App has a multi-page navigation view that makes it easier for the user to make use of it.
 
 ## How it Works?
 The app uses API to fetch the nearby restaurant details depending upon the user's current or desired location.
